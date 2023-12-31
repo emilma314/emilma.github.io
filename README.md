@@ -1,2 +1,2 @@
-Lime
+theme: jekyll-theme-minimal
 
